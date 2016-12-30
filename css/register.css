@@ -1,0 +1,15 @@
+.mainregisterView{ width:1199px;margin: 0 auto;height: 560px;}
+.header2{width: 100%;margin: 0;}
+.bgview{float: left;width: 761px;text-align: center;
+margin-top: 77px;}
+.bgview p{color: #8b8b8b;font-size: 20px;}
+.bgview p span{margin-left: 20px;font-size: 25px;color:#e13335}
+.bgview img{margin-top: 20px;}
+.register{float: left;width: 370px;height: 272px;margin-top: 80px;border: 1px solid #cfcfcf;text-align: center;}
+.registerp{width: 100%;height: 59px;float: left;line-height: 59px;border-bottom: 1px solid #cfcfcf}
+.registerp span{color: #666666;font-size: 14px;float: left;margin-left: 40px;}
+.registerp a{color: #666666;font-size: 14px;float: right;margin-right: 40px;}
+.registerp a:hover{color:#e13335}
+.Rinput{width:273px;height: 32px;outline: none;margin-top: 25px;margin-left: 20px;color:#666666;text-indent: 1em}
+.label{color:#666666;font-size: 15px;margin-left: 10px;}
+.registerNow{float: left;width: 282px;height: 39px;text-align: center;line-height: 39px;color: white;background:#e13335;margin-left:50px;margin-top: 20px; }

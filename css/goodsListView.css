@@ -1,0 +1,44 @@
+.goods-container{
+    width: 1199px;
+    background: #f0eeee;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.goods-container li{
+    width: 224px;
+    height: 403px;
+    margin: 5px;
+    border: 2px solid  #f0eeee;
+}
+.goods-container li p{
+    width: 195px;
+    height: 20px;
+    color: #666666;
+    font-size: 14px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin-top: 13px;
+    margin-left: 3px;
+}
+.goods-container li span{
+    font-size: 20px;
+    color: #f2594b;
+}
+.goods-container li img{
+    width: 224px;
+    height: 298px;
+}
+.buy{
+    display: block;
+    width: 129px;
+    height: 35px;
+    background: #f2594b;
+    color: #fde6e4;
+    text-align: center;
+    line-height: 35px;
+    text-decoration: none;
+    margin: 0 auto;
+}
